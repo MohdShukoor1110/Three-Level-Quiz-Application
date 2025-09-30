@@ -1,5 +1,7 @@
 # dependencies
 /node_modules
+/MongoDB_User.txt
+/.env
 
 # Logs
 npm-debug.log*

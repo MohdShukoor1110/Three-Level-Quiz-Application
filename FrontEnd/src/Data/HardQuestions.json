@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "text": "Which physicist is known for developing the theory of relativity?",
+        "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Nikola Tesla"],
+        "correctAnswer": "Albert Einstein",
+        "difficulty": "hard"
+    },
+    {
+        "id": 2,
+        "text": "In what year did the World War I officially end?",
+        "options": ["1917", "1919", "1918", "1920"],
+        "correctAnswer": "1918",
+        "difficulty": "hard"
+    },
+    {
+        "id": 3,
+        "text": "What is the name of the smallest bone in the human body?",
+        "options": ["Femur", "Stapes", "Tibia", "Humerus"],
+        "correctAnswer": "Stapes",
+        "difficulty": "hard"
+    },
+    {
+        "id": 4,
+        "text": "Who wrote the classic novel 'One Hundred Years of Solitude'?",
+        "options": ["Jorge Luis Borges", "Gabriel García Márquez", "Pablo Neruda", "Mario Vargas Llosa"],
+        "correctAnswer": "Gabriel García Márquez",
+        "difficulty": "hard"
+    },
+    {
+        "id": 5,
+        "text": "Which element has the chemical symbol 'Au'?",
+        "options": ["Silver", "Iron", "Gold", "Aluminum"],
+        "correctAnswer": "Gold",
+        "difficulty": "hard"
+    },
+    {
+        "id": 6,
+        "text": "Which philosopher is credited with the famous phrase 'Cogito, ergo sum'?",
+        "options": ["Socrates", "Aristotle", "René Descartes", "Immanuel Kant"],
+        "correctAnswer": "René Descartes",
+        "difficulty": "hard"
+    },
+    {
+        "id": 7,
+        "text": "Which ancient wonder was a massive lighthouse located in Egypt?",
+        "options": ["Great Pyramid of Giza", "Hanging Gardens of Babylon", "Colossus of Rhodes", "Lighthouse of Alexandria"],
+        "correctAnswer": "Lighthouse of Alexandria",
+        "difficulty": "hard"
+    },
+    {
+        "id": 8,
+        "text": "What is the process by which plants make their own food using sunlight?",
+        "options": ["Respiration", "Transpiration", "Photosynthesis", "Germination"],
+        "correctAnswer": "Photosynthesis",
+        "difficulty": "hard"
+    },
+    {
+        "id": 9,
+        "text": "The Suez Canal connects which two bodies of water?",
+        "options": ["Atlantic Ocean and Pacific Ocean", "Mediterranean Sea and Red Sea", "Black Sea and Aegean Sea", "Baltic Sea and North Sea"],
+        "correctAnswer": "Mediterranean Sea and Red Sea",
+        "difficulty": "hard"
+    },
+    {
+        "id": 10,
+        "text": "Which musical instrument is also known as the 'mouth organ'?",
+        "options": ["Clarinet", "Harmonica", "Saxophone", "Oboe"],
+        "correctAnswer": "Harmonica",
+        "difficulty": "hard"
+    }
+]

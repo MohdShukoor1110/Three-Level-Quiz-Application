@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "text": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "correctAnswer": "4",
+        "difficulty": "easy"
+    },
+    {
+        "id": 2,
+        "text": "How many days are in a week?",
+        "options": ["5", "6", "7", "8"],
+        "correctAnswer": "7",
+        "difficulty": "easy"
+    },
+    {
+        "id": 3,
+        "text": "What color is the sky on a clear day?",
+        "options": ["Green", "Blue", "Red", "Yellow"],
+        "correctAnswer": "Blue",
+        "difficulty": "easy"
+    },
+    {
+        "id": 4,
+        "text": "Which animal barks?",
+        "options": ["Cat", "Dog", "Bird", "Fish"],
+        "correctAnswer": "Dog",
+        "difficulty": "easy"
+    },
+    {
+        "id": 5,
+        "text": "What is the opposite of 'hot'?",
+        "options": ["Warm", "Cold", "Big", "Fast"],
+        "correctAnswer": "Cold",
+        "difficulty": "easy"
+    },
+    {
+        "id": 6,
+        "text": "How many fingers are on one human hand (not counting the thumb)?",
+        "options": ["3", "4", "5", "6"],
+        "correctAnswer": "4",
+        "difficulty": "easy"
+    },
+    {
+        "id": 7,
+        "text": "Which fruit is typically red and round?",
+        "options": ["Banana", "Grape", "Apple", "Orange"],
+        "correctAnswer": "Apple",
+        "difficulty": "easy"
+    },
+    {
+        "id": 8,
+        "text": "What do you use to write on paper?",
+        "options": ["Spoon", "Pencil", "Fork", "Shoe"],
+        "correctAnswer": "Pencil",
+        "difficulty": "easy"
+    },
+    {
+        "id": 9,
+        "text": "Which season comes after Spring?",
+        "options": ["Winter", "Autumn", "Summer", "Rainy"],
+        "correctAnswer": "Summer",
+        "difficulty": "easy"
+    },
+    {
+        "id": 10,
+        "text": "What is the first letter of the English alphabet?",
+        "options": ["B", "C", "A", "Z"],
+        "correctAnswer": "A",
+        "difficulty": "easy"
+    }
+]
